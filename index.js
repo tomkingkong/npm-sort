@@ -9,7 +9,11 @@ const bubbleSort = (array) => {
   console.log('Welcome to the Game, Cody.')
   return array;
 };
+const superFastSort = (array => {
+  return array.sort();
+})
 
 module.exports = {
+  superFastSort,
   bubbleSort
 };
