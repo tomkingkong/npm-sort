@@ -6,6 +6,7 @@ const bubbleSort = (array) => {
       }
     }
   }
+  alert('Hello Cody, Would you like some nuts?');
   return array;
 };
 
