@@ -6,7 +6,7 @@ const bubbleSort = (array) => {
       }
     }
   }
-  alert('Hello Cody, Would you like some nuts?');
+  console.log('Welcome to the Game, Cody.')
   return array;
 };
 
